@@ -21,7 +21,7 @@
 - Complex functions and/or blocks of code must be accompanied by inline comments explaining the logic.
 
 ## How to merge the code into the shared repository
-- Every code must be uploaded on its own branch then move to the main branch.
+- Every code must be uploaded on its own branch then move to the main branch via PR.
 - Use the following commands to upload the code.
 > git pull origin master \
 > git branch nameOfyourBranch \
@@ -34,6 +34,5 @@
 ## What to do when a member misses a meeting
 - Follow up and give them a chance to explain.
 - Make decision based on all members input.
-- Give a warning based on the reasons explained.
-- If it affects the performance of the team let the professor know.
+- If it affects the performance of the team inform scrum master.
 
