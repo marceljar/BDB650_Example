@@ -2,7 +2,7 @@
 
 ## Preferred form of contact and overall availability
 
-- All the team meeting will take place on the group Slack channel.
+- All the team meeting will take place on our own Discord Server.
 - Emails can also be used for necessary contact.
 - All team mebers msut attend all Daily Scrums and other events
 - Members must provide feedback within 24 hours when reached.
