@@ -1,4 +1,4 @@
-# Fake News Detection Project
+# Fake News Detection
 
 In this project, we aim at creating a basic Fake News detection system.
 
